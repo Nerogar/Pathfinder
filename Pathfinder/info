@@ -1,0 +1,7 @@
+G = entfernung vom startpunkt zur node
+H = entfernung von node zum ziel
+
+F = G + H
+
+nachbarn in open list
+von open list kleinstes F weiter bearbeiten
